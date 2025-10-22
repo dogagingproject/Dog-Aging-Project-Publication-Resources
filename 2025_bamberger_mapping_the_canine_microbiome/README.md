@@ -15,11 +15,12 @@ DOI link: TBD
 ABOUT THIS REPO: This folder contains datasets and/or code used for the analyses reported in the article cited above in fulfillment of the requirements of the publisher and for the sole purpose of replicating the analyses contained in the article. These data represent currently embargoed Dog Aging Project (DAP) data or data otherwise unavailable in a DAP Curated Data Release.
 
 Format (all files): one row per sample; dap_sample_id as the ID column.
-microbiome_species_level_taxonomy.csv.zip - Species-level profiles from Kraken/Bracken; columns = species; values = relative abundances.
-microbiome_genus_level_taxonomy.csv.zip - Genus-level profiles from Kraken/Bracken; columns = genera; values = relative abundances.
-microbiome_phylum_level_taxonomy.csv - Phylum-level profiles from Kraken/Bracken; columns = phyla; values = relative abundances.
-microbiome_kegg_modules.csv - KEGG Module profiles (MetaLaffa); columns = module IDs (e.g., Mxxxxx); values = module prevalence.
-microbiome_kegg_pathways.csv - KEGG Pathway profiles (MetaLaffa); columns = pathway IDs (e.g., koxxxxx); values = pathway prevalence.
+
+* microbiome_species_level_taxonomy.csv.zip - Species-level profiles from Kraken/Bracken; columns = species; values = relative abundances.
+* microbiome_genus_level_taxonomy.csv.zip - Genus-level profiles from Kraken/Bracken; columns = genera; values = relative abundances.
+* microbiome_phylum_level_taxonomy.csv - Phylum-level profiles from Kraken/Bracken; columns = phyla; values = relative abundances.
+* microbiome_kegg_modules.csv - KEGG Module profiles (MetaLaffa); columns = module IDs (e.g., Mxxxxx); values = module prevalence.
+* microbiome_kegg_pathways.csv - KEGG Pathway profiles (MetaLaffa); columns = pathway IDs (e.g., koxxxxx); values = pathway prevalence.
 
 ABOUT DAP DATA: Dog Aging Project data consist of an extensive set of anonymized variables collected from tens of thousands of dogs. Data types include survey data, environmental data, and biospecimen lab results, among other data types. Curated Data are released annually via the Terra platform to researchers worldwide for use in scientific research, curricular, and other nonprofit uses.
 
