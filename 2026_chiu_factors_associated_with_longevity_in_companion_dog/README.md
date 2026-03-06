@@ -6,7 +6,7 @@ Author: chiu
 
 Title: Factors Associated with Longevity in Companion Dogs
 
-Journal: geoscience
+Journal: Geoscience
 
 Citation: 
 
