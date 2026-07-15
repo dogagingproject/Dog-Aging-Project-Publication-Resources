@@ -1,0 +1,82 @@
+﻿All Causes of Death Rates  Table by State
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023"
+Sorted by Rate
+
+State,FIPS,"Age-Adjusted Death Rate(†) - deaths per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval",Average Annual Count,Recent Trend,"Recent 5-Year Trend (‡) in Death Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"United States",00000,805.6 ,805.2, 806,3214616,falling,-1.0 ,-2.7, -0.2
+"Mississippi",28000,1083.6 ,1078.6, 1088.6,37416,stable,-1.0 ,-3.1, 0.2
+"West Virginia",54000,1079.2 ,1073.2, 1085.3,26243,stable,-0.2 ,-2.1, 1.0
+"Kentucky",21000,1034.6 ,1030.7, 1038.6,55052,stable,-0.6 ,-2.2, 0.2
+"Tennessee",47000,1018.8 ,1015.6, 1022,82372,stable,-0.7 ,-2.4, 0.1
+"Oklahoma",40000,1017 ,1012.8, 1021.2,46366,stable,-0.6 ,-2.1, 0.4
+"Alabama",01000,1013.2 ,1009.5, 1016.8,61861,falling,-1.1 ,-2.9, -0.2
+"Arkansas",05000,1001.7 ,997.1, 1006.4,36935,stable,-0.7 ,-2.2, 0.1
+"Louisiana",22000,998.2 ,994.3, 1002.1,52400,stable,-1.0 ,-2.9, 0.8
+"South Carolina",45000,937.9 ,934.4, 941.4,59334,falling,-1.3 ,-3.1, -0.5
+"Indiana",18000,924.9 ,921.8, 927.9,73563,falling,-1.3 ,-2.8, -0.3
+"Ohio",39000,922 ,919.8, 924.3,136215,falling,-1.5 ,-3.1, -0.6
+"Missouri",29000,910.9 ,907.8, 914,69696,stable,-0.9 ,-2.6, 0.0
+"Georgia",13000,890.3 ,887.8, 892.8,100005,falling,-1.5 ,-3.5, -0.6
+"New Mexico",35000,887.1 ,881.9, 892.5,22910,stable,0.5 ,-1.1, 1.7
+"North Carolina",37000,883.6 ,881.2, 886,108817,stable,-0.5 ,-1.8, 0.2
+"Michigan",26000,865.8 ,863.4, 868.1,109554,falling,-1.5 ,-3.1, -0.5
+"Kansas",20000,861.5 ,857.1, 866,30517,stable,-0.4 ,-1.8, 0.4
+"Nevada",32000,849.6 ,845.2, 854,29816,stable,-0.9 ,-2.8, 0.3
+"Wyoming",56000,839.8 ,829.9, 849.7,5835,falling,-1.6 ,-3.4, -0.2
+"Texas",48000,835.9 ,834.3, 837.4,238376,falling,-1.6 ,-3.5, -0.6
+"Delaware",10000,825.4 ,818.2, 832.6,10734,stable,-0.7 ,-2.4, 0.2
+"Alaska",02900,823.5 ,813.2, 833.9,5448,stable,0.5 ,-0.9, 1.7
+"Maine",23000,822.3 ,816.4, 828.2,16435,rising,1.3 ,0.8, 1.9
+"Pennsylvania",42000,822 ,820.1, 824,146014,falling,-1.4 ,-3.0, -0.5
+"Montana",30000,816.1 ,809.2, 822.9,11603,falling,-1.6 ,-3.2, -0.6
+"South Dakota",46000,808.7 ,801, 816.5,8976,stable,-1.5 ,-3.3, 0.6
+"District of Columbia",11001,803.8 ,794.1, 813.6,5452,falling,-3.2 ,-5.8, -0.9
+"Iowa",19000,799.2 ,795.3, 803.1,33518,stable,-0.3 ,-1.5, 0.9
+"Wisconsin",55000,794.6 ,791.6, 797.5,59192,stable,-0.5 ,-1.5, 0.5
+"Virginia",51000,793.2 ,790.7, 795.7,79589,stable,-0.4 ,-1.7, 0.3
+"Oregon",41000,789.6 ,786.2, 793.1,41942,stable,1.3 ,0.0, 2.2
+"Arizona",04000,788.6 ,785.9, 791.2,72166,falling,-1.2 ,-3.3, -0.1
+"Idaho",16000,786.5 ,781.1, 792,16563,falling,-1.2 ,-2.7, -0.5
+"Illinois",17000,786.4 ,784.4, 788.4,120696,stable,-1.2 ,-2.8, 0.3
+"Nebraska",31000,785.7 ,780.5, 790.9,18473,rising,1.0 ,0.4, 2.6
+"Utah",49000,772.8 ,768, 777.5,21192,stable,-0.7 ,-2.0, 0.1
+"Maryland",24000,765 ,762.1, 767.9,55767,falling,-1.6 ,-3.0, -0.4
+"North Dakota",38000,755.5 ,747.5, 763.6,7179,falling,-1.7 ,-3.3, -0.2
+"New Hampshire",33000,749.2 ,743.4, 754.9,13861,rising,0.8 ,0.4, 1.2
+"Vermont",50000,744.2 ,735.9, 752.5,6607,rising,0.6 ,0.2, 1.1
+"Washington",53000,743.9 ,741.4, 746.6,65060,stable,0.8 ,-0.5, 1.6
+"Colorado",08000,743.2 ,740.1, 746.3,45269,stable,-0.3 ,-1.8, 0.7
+"Rhode Island",44000,735.3 ,729, 741.7,10891,falling,-1.4 ,-3.2, -0.1
+"Florida",12000,728.7 ,727.4, 730.1,235215,falling,-1.5 ,-3.2, -0.7
+"Minnesota",27000,713.4 ,710.6, 716.3,49990,stable,-0.4 ,-1.5, 0.5
+"New Jersey",34000,709.1 ,706.9, 711.3,82377,falling,-3.4 ,-6.0, -1.5
+"Connecticut",09000,707 ,703.5, 710.4,34206,falling,-1.9 ,-3.8, -0.5
+"Massachusetts",25000,703.6 ,701.1, 706.1,62901,stable,-1.3 ,-3.0, 0.8
+"California",06000,687.6 ,686.5, 688.7,306137,stable,-0.6 ,-2.2, 0.2
+"New York",36000,681.8 ,680.3, 683.2,175427,falling,-2.6 ,-5.6, -0.1
+"Puerto Rico",72001,624.2 ,621, 627.4,32680,stable,0.5 ,-2.4, 3.4
+"Hawaii",15000,585.8 ,581, 590.6,12455,rising,1.0 ,0.1, 2.8
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 1/7/2026. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+Source: Death data provided by the National Vital Statistics System [ https://www.cdc.gov/nchs/nvss/index.htm ]. 
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"(†) Death rates (deaths per 100,000 population per year) are age-adjusted to the 2000 US standard population [https://www.seer.cancer.gov/stdpopulations/stdpop.20ages.html] (20 age groups: <1, 1-4, 5-9, ... , 80-84, 85-89, 90+). Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for mortality data. \n"
+State Health Departments [ https://www.usa.gov/state-health ] may provide more current or more local data.
+"(‡) The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint Regression Program. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ for selected counties. \n"
+"For more information about All Causes of Death, see the definitions at http://hdpulse.nimhd.nih.gov/data/cod.html#all."
+Data for United States does not include Puerto Rico.
+
+"Please note that the data comes from different sources. Due to different years ( https://hdpulse.nimhd.nih.gov/data/historicaltrend/differences.html ) of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. "
+
+"Interpret Rankings provides insight into interpreting mortality statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional deaths) has a dramatic effect on the calculated rate."
+"Rural-Urban Continuum Codes (developed by the United States Department of Agriculture (USDA) [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx ] ) are used on this website to distinguish which counties are rural and urban; additionally, how much of a state’s population is classified as rural or urban. For more information about using Rural-Urban Continuum Codes, go to the rural urban [ http://hdpulse.nimhd.nih.gov/data/ruralurban.html ] page."
+
