@@ -2,9 +2,9 @@ ABOUT THIS PUBLICATION
 
 Year: 2026
 
-Author: chiu
+Authors: Weihsueh A. Chiu, Matthew D. Dunbar, Gang Han, Benjamin R Harrison, Amber J. Keyser, Paul E. Litwin, Dog Aging Project Consortium, Daniel Promislow, Kate E. Creevy
 
-Title: Factors Associated with Longevity in Companion Dogs
+Title: Factors Associated with Longevity in Companion Dogs: Initial Findings from the Dog Aging Project
 
 Journal: Geoscience
 
