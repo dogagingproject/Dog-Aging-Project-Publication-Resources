@@ -3,8 +3,8 @@ library(ggplot2)
 library(tidyverse)
 library(stringr)
 library(cowplot)
-figfolder <- "Figures"
-resultsfolder <- "Results"
+figfolder <- "figures"
+resultsfolder <- "results"
 load(file.path(resultsfolder,"Supp.HLES_Cox.Rdata"))
 load(file.path(resultsfolder,"Supp.HLES_Cox.MAdult.Rdata"))
 pvals.comp<-full_join(pvals,pvals.MAdult,by=names(pvals)[c(1:9,11)])

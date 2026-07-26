@@ -2,8 +2,8 @@ library(ggplot2)
 library(tidyverse)
 library(stringr)
 library(cowplot)
-figfolder <- "Figures"
-resultsfolder <- "Results"
+figfolder <- "figures"
+resultsfolder <- "results"
 load(file.path(resultsfolder,"Supp.HLES_Cox.Rdata"))
 
 

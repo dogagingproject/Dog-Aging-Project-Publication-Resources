@@ -1,0 +1,11 @@
+"Size_Class_at_HLES","Sex","log.rank.pvalue"
+"Toy and Small dogs","Female",0.000234825909528396
+"Toy and Small dogs","Male",0.000678162255368982
+"Medium dogs","Female",4.96307727591584e-05
+"Medium dogs","Male",0.000755196034800495
+"Standard dogs","Female",0.217099726400984
+"Standard dogs","Male",0.000228197021621446
+"Large dogs","Female",0.001045837573465
+"Large dogs","Male",4.82396541418777e-09
+"Giant dogs","Female",0.0140578710023764
+"Giant dogs","Male",1.40284557098661e-11

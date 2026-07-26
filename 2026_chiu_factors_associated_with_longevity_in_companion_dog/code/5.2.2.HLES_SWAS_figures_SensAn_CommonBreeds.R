@@ -6,8 +6,8 @@ library(cowplot)
 library(ggcorrplot)
 library(ggVennDiagram)
 library(ggpubr)
-figfolder <- "Figures"
-resultsfolder <- "Results"
+figfolder <- "figures"
+resultsfolder <- "results"
 load(file.path(resultsfolder,"Supp.HLES_Cox.Rdata"))
 load(file.path(resultsfolder,"Supp.HLES_Cox.MAdult.Rdata"))
 load(file.path(resultsfolder,"Supp.HLES_Cox.top16.Rdata"))

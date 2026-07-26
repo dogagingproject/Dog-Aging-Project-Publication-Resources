@@ -1,0 +1,7 @@
+"Analysis","Variable","log.rank.pvalue","cox.zph.pvalue"
+"Unadjusted","home_area",7.531443419166e-07,0.18829010554167
+"Unadjusted","census_division",0.00399760875470225,0.103724305454136
+"Unadjusted","state",0.0205087305734839,0.191742293783572
+"Adjusted","home_area",0.943366620833699,0.820924229510232
+"Adjusted","census_division",0.0377098409054521,0.171561775198585
+"Adjusted","state",0.0333251154816689,0.145454781999929

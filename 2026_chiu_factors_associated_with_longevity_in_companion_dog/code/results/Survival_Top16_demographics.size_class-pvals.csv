@@ -1,0 +1,33 @@
+"","Breed","Size_Class_at_HLES","Sex","log.rank.pvalue"
+"pvalue","Labrador Retriever","Large dogs","Female",7.33923398331029e-06
+"pvalue1","Labrador Retriever","Large dogs","Male",0.0104375161907185
+"pvalue2","Golden Retriever","Large dogs","Female",0.287680029079151
+"pvalue3","Golden Retriever","Large dogs","Male",0.0494963801108834
+"pvalue4","German Shepherd Dog","Large dogs","Female",7.08290846793972e-06
+"pvalue5","German Shepherd Dog","Large dogs","Male",7.64023968625534e-09
+"pvalue6","Australian Shepherd","Standard dogs","Female",0.00945465722744809
+"pvalue7","Australian Shepherd","Standard dogs","Male",0.159873757190274
+"pvalue8","Poodle","Standard dogs","Female",0.905218146257159
+"pvalue9","Poodle","Standard dogs","Male",0.389553492332729
+"pvalue10","Border Collie","Medium dogs","Female",0.417803807532443
+"pvalue11","Border Collie","Medium dogs","Male",0.163727518507809
+"pvalue12","Dachshund","Toy and Small dogs","Female",0.0315626817073833
+"pvalue13","Dachshund","Toy and Small dogs","Male",0.0455534707980671
+"pvalue14","Pembroke Welsh Corgi","Medium dogs","Female",0.444573924235602
+"pvalue15","Pembroke Welsh Corgi","Medium dogs","Male",0.211415540095629
+"pvalue16","Chihuahua","Toy and Small dogs","Female",0.360052569868807
+"pvalue17","Chihuahua","Toy and Small dogs","Male",0.00277234081623575
+"pvalue18","Beagle","Medium dogs","Female",0.304970884832871
+"pvalue19","Beagle","Medium dogs","Male",0.0149756963198119
+"pvalue20","Great Dane","Giant dogs","Female",0.0243429379193128
+"pvalue21","Great Dane","Giant dogs","Male",3.24884984957712e-08
+"pvalue22","Boxer","Large dogs","Female",0.000130579373844976
+"pvalue23","Boxer","Large dogs","Male",7.37903733232957e-11
+"pvalue24","Doberman Pinscher","Large dogs","Female",1.18856231122691e-13
+"pvalue25","Doberman Pinscher","Large dogs","Male",0.000166075984082834
+"pvalue26","Cavalier King Charles Spaniel","Toy and Small dogs","Female",3.12880043183916e-11
+"pvalue27","Cavalier King Charles Spaniel","Toy and Small dogs","Male",3.46000748578633e-08
+"pvalue28","Havanese","Toy and Small dogs","Female",0.61811392307237
+"pvalue29","Havanese","Toy and Small dogs","Male",0.680802719664124
+"pvalue30","Miniature Schnauzer","Toy and Small dogs","Female",0.150911304655321
+"pvalue31","Miniature Schnauzer","Toy and Small dogs","Male",0.000219694587064959
