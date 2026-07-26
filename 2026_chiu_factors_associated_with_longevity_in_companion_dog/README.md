@@ -31,17 +31,11 @@ ABOUT DAP DATA: Dog Aging Project data consist of an extensive set of anonymized
 * Use of DAP data does not imply collaboration with the Dog Aging Project.
 * Users must acknowledge DAP as the source of the data and cite DAP Curated Data in the appropriate format. 
 
-# DAP-2024-SurvivalAnalysis
+# 2026_chiu_factors_associated_with_longevity_in_companion_dog
 
-Analysis code for the manuscript **"Factors Associated with Longevity in
-Companion Dogs: Initial Findings from the Dog Aging Project"** (Chiu et al.).
-The manuscript, supplemental figures/tables, and supplemental separate files
-are in `Manuscript Files/`.
-
-The full pipeline is orchestrated by **`00.RunAll.R`**, which sources the
-scripts below in order. Each stage runs from a clean workspace
-(`rm(list=ls())` between calls). Inputs live in `data/`, derived outputs in
-`results/`, and plots in `figures/`.
+The full pipeline is orchestrated by **`00.RunAll.R`** in `code/`, 
+which sources the scripts below in order. Each stage runs from a clean workspace (`rm(list=ls())` between calls). Inputs live in `data/`, 
+derived outputs in `code/results/`, and plots in `code/figures/`.
 
 ## Requirements
 
@@ -89,12 +83,12 @@ scripts below in order. Each stage runs from a clean workspace
   it, so any manuscript number can be traced back to a specific script
   (e.g. `Survival_DAP_demographics.SumStats.csv`,
   `Geoeffect-Cox-Human.MR.csv`, `Supp.HLES_Cox_signif_results.csv`).
-- `code/figures/` — PDF/SVG panels used in the main and supplemental figures.
+- `code/figures/` — PDF/JPG panels used in the main and supplemental figures.
 
 ## To reproduce
 
 ```r
-setwd("<repo root>")
+setwd("<repo root>/code")
 source("00.RunAll.R")
 ```
 
