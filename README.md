@@ -4,8 +4,6 @@ ABOUT THIS REPO: This repository serves as the central hub for storing datasets 
 
 NOTE ON SECURITY: This is a public repository. While DAP can restrict who has “write access” to the repository, **anyone can download or create a fork (i.e. a duplicate of the repository contents) to obtain copies of and/or make changes to that copy of these data without having signed a DAP Data Use Agreement**. This means they have access to your hard-earned DAP data without ever seeing or agreeing to DAP data use policies. Please ensure that you fully understand the implications and that sharing data via this repository is truly absolutely necessary for your publication. 
 
-GUIDE TO REPO ACTIONS: This repository is designed to simplify contributions by providing an automated process that creates a standardized folder structure for each manuscript. Each new submission generates a dedicated folder—with clearly defined subdirectories for code and data—ensuring that all uploads adhere to consistent naming conventions and organization. Leveraging GitHub Actions, the workflow captures essential publication details from the contributor and automatically commits the structured folders to the repository. This approach not only streamlines the submission process for users with minimal GitHub experience but also maintains uniformity and reliability across all publication assets.
-
 **If you are a member of the DAP team and you need to upload data files to this repo, please reach out to the DAP Data Core at datahelp@dogagingproject.org. We will set up a folder structure for you and give you access.**
 
 **IMPORTANT**: Datasets uploaded to this repo must meet the following criteria:
@@ -19,4 +17,6 @@ GUIDE TO REPO ACTIONS: This repository is designed to simplify contributions by 
 
 **If you have any questions about how to structure your data and/or what to include/exclude from your dataset, please discuss with the DAP Data Core at datahelp@dogagingproject.org.**
 
+**For repo admins**   
+This repository is designed to simplify contributions by providing an automated process that creates a standardized folder structure for each manuscript. Each new submission generates a dedicated folder—with clearly defined subdirectories for code and data—ensuring that all uploads adhere to consistent naming conventions and organization. Leveraging GitHub Actions, the workflow captures essential publication details from the contributor and automatically commits the structured folders to the repository. This approach not only streamlines the submission process for users with minimal GitHub experience but also maintains uniformity and reliability across all publication assets.  
 **If you are authorized to run the workflow, see instructions at [GitHub Repository for Publication Resources SOP - Google Docs](https://docs.google.com/document/d/1zfdH24eHYhm51rRilNOfCvRbQYVG-VODngao1RCkxg0/edit?tab=t.0)**
